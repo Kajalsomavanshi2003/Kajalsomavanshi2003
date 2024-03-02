@@ -1,16 +1,15 @@
-### Hi there 👋
-
+### Hi 👋 I'm Kajal Somavanshi
+ 
 <!--
-**Kajalsomavanshi2003/Kajalsomavanshi2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate for data science and I have keen interest in unlocking valuable insights from data. I'm enthusiastic about applying my analytical skills to real-world challenges, and I'm on a journey to become a proficient data scientist.
+During my academic journey, I've developed a solid foundation in data science methodologies, statistical analysis, and machine learning. I'm excited to embark on a career where I can contribute my skills to meaningful projects and continue to learn and grow in the dynamic field of data science.
 
-Here are some ideas to get you started:
+This profile serves my skills, and aspirations. Let's connect and explore how my passion for data can make a positive impact on your team or project!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Chatbot For Tahasil Office Using Rasa
+- 📚💻🎓Computer Engineering Student at Sanjivani College of Engineering,Kopargaon
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about Python,Statistics, Data Science
+- 📫 How to reach me: kajalsomavanshi71@gmail.com
+
 -->
