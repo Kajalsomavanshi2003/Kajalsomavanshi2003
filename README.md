@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Chatbot For Tahasil Office Using Rasa**
-
 - 💬 Ask me about **Python, SQL, Statistics, Data Science**
 
 - 📫 How to reach me **kajalsomavanshi71@gmail.com**
